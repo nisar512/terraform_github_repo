@@ -1,0 +1,3 @@
+variable "githubTocken" {
+  type = string
+}
